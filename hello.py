@@ -1,3 +1,5 @@
+# Первое домашнее задание
+
 input_name_question = input("Привет, как тебя зовут? ") 
 name = str(input_name_question)
 
